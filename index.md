@@ -10,7 +10,7 @@ _Youtube, Vlog Etc..._
 
 Short Form Edits
 _Social Media, Tiktok, Insta etc..._
-<iframe width="592" height="1052" src="https://www.youtube.com/embed/AwU7OTHk-cc" title="Just a Little Kraber and Chill #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/AwU7OTHk-cc" title="Just a Little Kraber and Chill #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contact Me
 Email: deadgainbusiness@gmail.com
