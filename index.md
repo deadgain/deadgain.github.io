@@ -14,3 +14,7 @@ _Social Media, Tiktok, Insta etc..._
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@deadgaintv/video/6975782632348994822" data-video-id="6975782632348994822" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@deadgaintv" href="https://www.tiktok.com/@deadgaintv">@deadgaintv</a> new season 4 weapons hit different <a title="warzone" target="_blank" href="https://www.tiktok.com/tag/warzone">#warzone</a> <a title="biggangster" target="_blank" href="https://www.tiktok.com/tag/biggangster">#biggangster</a>  <a title="streamer" target="_blank" href="https://www.tiktok.com/tag/streamer">#streamer</a> <a title="clip" target="_blank" href="https://www.tiktok.com/tag/clip">#clip</a> <a target="_blank" title="♬ original sound - deadgain" href="https://www.tiktok.com/music/original-sound-6975782359538961157">♬ original sound - deadgain</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
+## Contact Me
+Email: deadgainbusiness@gmail.com
+Twitter: @deadgain
+Youtube: youtube.com/c/deadgain
