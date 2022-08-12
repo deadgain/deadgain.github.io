@@ -1,37 +1,16 @@
-## DEADGAIN
+# DEADGAIN
+Video Editor/Monteur Vidéo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GXsubUGCRsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Examples of My Work
+Long Form Edits 
+_Youtube, Vlog Etc..._
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBhkGvb0eUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RcGhMLq6ZGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
+Short Form Edits
+_Social Media, Tiktok, Insta etc..._
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@deadgaintv/video/6936438143675534597" data-video-id="6936438143675534597" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@deadgaintv" href="https://www.tiktok.com/@deadgaintv">@deadgaintv</a> literally just vibin <a title="titanfall2" target="_blank" href="https://www.tiktok.com/tag/titanfall2">#titanfall2</a> <a title="edit" target="_blank" href="https://www.tiktok.com/tag/edit">#edit</a> <a title="snipe" target="_blank" href="https://www.tiktok.com/tag/snipe">#snipe</a> <a title="kraber" target="_blank" href="https://www.tiktok.com/tag/kraber">#kraber</a> <a title="12feetdeep" target="_blank" href="https://www.tiktok.com/tag/12feetdeep">#12feetdeep</a> <a target="_blank" title="♬ original sound - deadgain" href="https://www.tiktok.com/music/original-sound-6936437978705185542">♬ original sound - deadgain</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@deadgaintv/video/6975782632348994822" data-video-id="6975782632348994822" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@deadgaintv" href="https://www.tiktok.com/@deadgaintv">@deadgaintv</a> new season 4 weapons hit different <a title="warzone" target="_blank" href="https://www.tiktok.com/tag/warzone">#warzone</a> <a title="biggangster" target="_blank" href="https://www.tiktok.com/tag/biggangster">#biggangster</a>  <a title="streamer" target="_blank" href="https://www.tiktok.com/tag/streamer">#streamer</a> <a title="clip" target="_blank" href="https://www.tiktok.com/tag/clip">#clip</a> <a target="_blank" title="♬ original sound - deadgain" href="https://www.tiktok.com/music/original-sound-6975782359538961157">♬ original sound - deadgain</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deadgain/deadgain.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
