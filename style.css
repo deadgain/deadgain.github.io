@@ -73,6 +73,7 @@ h1 {
     font-size: 20px;
     color: red;
     margin: 25px;
+    border: solid red 2px;
     
 }
 
