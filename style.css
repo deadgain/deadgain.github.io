@@ -74,6 +74,7 @@ h1 {
     color: red;
     margin: 25px;
     border: solid red 2px;
+    text-shadow: 4px 4px 8px #FF0000;
     
 }
 
